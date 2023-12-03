@@ -1,7 +1,7 @@
 # hackaton-838
 this is a project for hackaton with kodland :D
 
-# SOLUSI PERUBAHAN IKLIM
+## SOLUSI PERUBAHAN IKLIM
 Kita harus:
 1. Mengurangi Penggunaan Listrik dan Air
 2. Mengurangi Penggunaan Kendaraan Bermotor
@@ -9,5 +9,20 @@ Kita harus:
 4. Mengurangi Konsumsi Daging
 Kita juga harus mulai menanam pohon2 dan lebih memelihara tanaman
 
-# IDE PROJEK DISINI
+## IDE PROJEK DISINI
 https://jamboard.google.com/d/1S38MYGNf4UgaEr_q4lvw81DjRZHLzZVXEPz5lx_LlVo/viewer
+
+## Rencana projek
+Aku berencana menerapkan bot yang dapat menerjemahkan pesan dari satu bahasa ke bahasa lain. Pengguna dapat menentukan bahasa target, dan bot akan menerjemahkan teks sesuai dengan itu. (Gabungan dengan discord bot)
+
+Aku berencana kembangkan bot yang dapat mengambil informasi dari repositori GitHub. Pengguna dapat menanyakan detail seperti penerapan terbaru, masalah, atau permintaan penarikan pada repositori tertentu.
+
+Aku berencana untuk membuat bot yang mengirimkan pesan selamat datang khusus kepada pengguna saat mereka bergabung dengan server Anda. Kamu dapat mengizinkan admin server untuk mengatur pesan selamat datang dan bahkan mungkin menyertakan beberapa detail spesifik pengguna seperti nama pengguna atau tanggal bergabung.  🤖🚀👾
+
+
+## Library yang di pake
+Discord bot
+Flask
+Tensorflow
+Keras 
+
