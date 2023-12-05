@@ -17,7 +17,7 @@ Aku berencana menerapkan bot yang dapat menerjemahkan pesan dari satu bahasa ke 
 
 Aku berencana kembangkan bot yang dapat mengambil informasi dari repositori GitHub. Pengguna dapat menanyakan detail seperti penerapan terbaru, masalah, atau permintaan penarikan pada repositori tertentu.
 
-Aku berencana untuk membuat bot yang mengirimkan pesan selamat datang khusus kepada pengguna saat mereka bergabung dengan server Anda. Kamu dapat mengizinkan admin server untuk mengatur pesan selamat datang dan bahkan mungkin menyertakan beberapa detail spesifik pengguna seperti nama pengguna atau tanggal bergabung.  🤖🚀👾
+Aku berencana untuk membuat bot yang mengirimkan pesan selamat datang khusus kepada pengguna saat mereka bergabung dengan server Anda. Kamu dapat notifikasi dan dikasih gambar tentang apa yang telah terjadi dari hari tersebut.  🤖🚀👾
 
 
 ## Library yang di pake
