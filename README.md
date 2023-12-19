@@ -13,11 +13,12 @@ Kita juga harus mulai menanam pohon2 dan lebih memelihara tanaman
 https://jamboard.google.com/d/1S38MYGNf4UgaEr_q4lvw81DjRZHLzZVXEPz5lx_LlVo/viewer
 
 ## Rencana projek
-Aku berencana menerapkan bot yang dapat menerjemahkan pesan dari satu bahasa ke bahasa lain. Pengguna dapat menentukan bahasa target, dan bot akan menerjemahkan teks sesuai dengan itu. (Gabungan dengan discord bot)
+ 
+ 
+ 🗑️ / 🌱 Aku berencana menerapkan bot yang dapat menjelaskan tentang perbedaan benda sama benda yang lain, Misalnya bedanya sampah dan pohon/tanaman yang rusak.
 
-Aku berencana kembangkan bot yang dapat mengambil informasi dari repositori GitHub. Pengguna dapat menanyakan detail seperti penerapan terbaru, masalah, atau permintaan penarikan pada repositori tertentu.
-
-Aku berencana untuk membuat bot yang mengirimkan pesan selamat datang khusus kepada pengguna saat mereka bergabung dengan server Anda. Kamu dapat notifikasi dan dikasih gambar tentang apa yang telah terjadi dari hari tersebut. Setelah kasih kendala yang terjadi hari tersebut, AI atau bot akan kasih saran atau solusi dengan apa yang kalian lakukan jika anda tidak sibuk.  🤖🚀👾
+Discord notification bots:
+⏰ Aku berencana untuk membuat bot mengkirimkan notifikasi kepada anda untuk mencoba beristirahat habis di dalam sosial media sebanyak 3 atau 4 jam, Untuk tolong mencoba hemat listrik. 🤖🚀👾🕒
 
 
 ## Library yang di pake
