@@ -18,7 +18,7 @@ https://jamboard.google.com/d/1S38MYGNf4UgaEr_q4lvw81DjRZHLzZVXEPz5lx_LlVo/viewe
  🗑️ / 🌱 Aku berencana menerapkan bot yang dapat menjelaskan tentang perbedaan benda sama benda yang lain, Misalnya bedanya sampah dan pohon/tanaman yang rusak.
 
 Discord notification bots:
-⏰ Aku berencana untuk membuat bot mengkirimkan notifikasi kepada anda untuk mencoba beristirahat habis di dalam sosial media sebanyak 3 atau 4 jam, Untuk tolong mencoba hemat listrik. 🤖🚀👾🕒
+⏰ Aku berencana untuk membuat bot mengkirimkan notifikasi kepada anda untuk mencoba beristirahat habis di dalam sosial media sebanyak 3 atau 4 jam, Untuk tolong mencoba hemat listrik. 🤖🚀👾🕒  ✅
 
 
 ## Library yang di pake
